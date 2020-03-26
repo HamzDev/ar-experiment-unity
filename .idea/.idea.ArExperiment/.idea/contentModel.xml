@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\hamza\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\hamza\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_ArExperiment.-1351922596.00" t="ExcludeRecursive" />
+    <e p="C:\Users\hamza\ArExperiment" t="IncludeRecursive">
+      <e p="ArExperiment.sln" t="IncludeFlat" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Demo" t="Include">
+          <e p="ArTapToPlaceObject.cs" t="Include" />
+        </e>
+        <e p="Rokoko" t="Include">
+          <e p="MotionLibrary" t="Include">
+            <e p="Editor" t="Include">
+              <e p="MotionLibraryWindowCompatibility.cs" t="Include" />
+            </e>
+            <e p="LICENSE.txt" t="Include" />
+            <e p="MotionLibraryRuntime.asmdef" t="Include" />
+            <e p="Plugins" t="Include">
+              <e p="2018" t="Include">
+                <e p="Newtonsoft.Json.xml" t="Include" />
+              </e>
+            </e>
+            <e p="Resources" t="Include">
+              <e p="Shaders" t="Include">
+                <e p="MotionLibraryFloor3.shader" t="Include" />
+                <e p="New AmplifyShader.shader" t="Include" />
+              </e>
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="MotionLibraryRuntime.csproj" t="IncludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
